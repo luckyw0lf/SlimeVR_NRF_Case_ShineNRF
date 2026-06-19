@@ -6,7 +6,7 @@
 ## Bill of Materials
 |Amount         | Parts              | Link
 |-----          | -----              | -----
-|1x per tracker | Unpopulated PCB    |   [EasyEDA PCB source files](https://u.easyeda.com/account/user/projects/index/detail?project=545e99bf677c4318850288026fb6eac0&listType=all) or [production files](https://u.easyeda.com/account/user/projects/index/detail?project=545e99bf677c4318850288026fb6eac0&listType=all)
+|1x per tracker | Unpopulated PCB    |   [EasyEDA PCB source files](https://u.easyeda.com/account/user/projects/index/detail?project=545e99bf677c4318850288026fb6eac0&listType=all) or [production files](https://github.com/luckyw0lf/SlimeVR_NRF_Case_ShineNRF/blob/main/Gerber_ShineNRF_ShineNRF_2026-06-19.zip)
 |1x per tracker | NRF52840 Pro micro |   https://nl.aliexpress.com/item/1005007383270623.html
 |1x per tracker | IMU ICM45686*      |   https://shop.slimevr.dev/products/slimevr-mumo-breakout-module-v1-icm-45686-qmc6309
 |1x per tracker | 303030 Battery     |   https://nl.aliexpress.com/item/32892030632.html
