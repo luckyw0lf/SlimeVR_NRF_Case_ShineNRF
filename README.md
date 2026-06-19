@@ -39,5 +39,5 @@ Pay attention when putting in the battery and the tracker or when removing the e
 Todo:<br>
 
 * Make pictures of the trackers
-* Add production files to make it not required to have a EasyEda account for manufactoring the pcb
+* ✅ Add production files to make it not required to have a EasyEda account for manufactoring the pcb
 * Maybe add some easy steps for ordering the PCB from JLCPCB
